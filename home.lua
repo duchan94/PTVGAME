@@ -414,7 +414,7 @@ floatLY={
           layout_width="fill";
           {
             TextView;
-            text="HAITUN";
+            text="PVT GAME";
             layout_height="wrap";
             textColor="0xFF80FF00";
             textSize="16sp";
