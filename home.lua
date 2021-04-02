@@ -790,6 +790,7 @@ function btnStart.onClick()
   if isMax==false then
     isMax=true
     FloatParameter.addView(floatWindow,FLOATNJENG)
+    print("OK RUN THE GAME!")
    else
     print("Please close the current menu to open a new menu!")
   end
