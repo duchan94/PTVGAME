@@ -414,7 +414,7 @@ floatLY={
           layout_width="fill";
           {
             TextView;
-            text="PVT GAME";
+            text="PTV GAME";
             layout_height="wrap";
             textColor="0xFF80FF00";
             textSize="16sp";
@@ -790,7 +790,6 @@ function btnStart.onClick()
   if isMax==false then
     isMax=true
     FloatParameter.addView(floatWindow,FLOATNJENG)
-    print("OK RUN THE GAME!")
    else
     print("Please close the current menu to open a new menu!")
   end
